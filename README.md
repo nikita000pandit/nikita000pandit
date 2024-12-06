@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita pandit</h1>
-<h3 align="left">I am a passionate full-stack developer from Nepal, constantly exploring and learning new technologies. Currently, I am in my 5th semester pursuing a BTech in Computer Science and Engineering at the Kalinga Institute of Industrial Technology in Bhubaneswar, Odisha, India. In addition to my academic pursuits, I am an active member of the NSS SCE society at my college, where I engage in various community service activities and projects.</h3>
+<h3 align="left">I am a passionate full-stack developer from Nepal, constantly exploring and learning new technologies. Currently, I am in my 6th semester pursuing a BTech in Computer Science and Engineering at the Kalinga Institute of Industrial Technology in Bhubaneswar, Odisha, India. In addition to my academic pursuits, I am an active member of the NSS SCE society at my college, where I engage in various community service activities and projects.</h3>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" align="right"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikita000pandit&label=Profile%20views&color=0e75b6&style=flat" alt="nikita000pandit" /> </p>
 
